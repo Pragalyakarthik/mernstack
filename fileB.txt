@@ -1,0 +1,2 @@
+status is used to check the changes
+commit is used to save the file
