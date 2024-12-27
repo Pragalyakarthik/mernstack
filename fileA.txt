@@ -1,0 +1,2 @@
+touch file_name.txt is used to create new file
+to change directory use cd 
